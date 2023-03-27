@@ -1,4 +1,4 @@
-# BorderAttention: a segmentation model for fields
+# Harvest Ensemble Segmentation Model for Fields
 In the [NASA Harvest Field Boundary Detection Challenge](https://zindi.africa/competitions/nasa-harvest-field-boundary-detection-challenge/leaderboard)
 this was the second place solution by the team `HungryLearner`.
 
