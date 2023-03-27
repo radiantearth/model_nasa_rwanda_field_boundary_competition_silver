@@ -10,7 +10,7 @@ This documents the following submission
 This submission was made in the `NASA Harvest Field Boundary Detection Challenge` and placed second on the private leaderboard.
 
 ## Creators
-This solution was a team effort by team borderline with members
+This solution was developed by:
 
  - Bojesomo Alabi - [Gmail](mailto:asbojesomo@gmail.com)
 
