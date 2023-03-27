@@ -9,6 +9,22 @@ This documents the following submission
 
 This submission was made in the `NASA Harvest Field Boundary Detection Challenge` and placed second on the private leaderboard.
 
+## Creators
+This solution was a team effort by team borderline with members
+
+ - Bojesomo Alabi - [Gmail](mailto:asbojesomo@gmail.com)
+
+## Contact
+
+Use email to message.
+
+## Citation
+Bojesomo A. \"Harvest Ensemble Segmentation Model for Fields\", Version 1.0, Radiant MLHub. [Date Accessed] Radiant MLHub <https://doi.org/10.34911/rdnt.49rmmy>
+
+## License
+
+[CC-BY-4.0](../LICENSE)
+
 ## Environment
 
 Below are details of the environment.
@@ -184,6 +200,3 @@ I apply threshold 0.9 then voting ensemble on each cell. The final submission fi
 ```
 ensemble.ipynb
 ```
-### Contact
-
-asbojesomo@gmail.com 
